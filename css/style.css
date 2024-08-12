@@ -6,6 +6,10 @@
 	display:none;
 }
 
+body > div.site_wrapper > div.content_fullwidth.less2 > div > div.right_sidebar > div.sidebar_widget > ul > li:nth-child(1){
+	display:none;
+}
+
 /*-------------------------------------------------------
 [Table of contents]
 
