@@ -11,7 +11,7 @@ body > div.site_wrapper > div.content_fullwidth.less2 > div > div.right_sidebar 
 }
 
 .mob2{
-	display:none;
+	display:none !important;
 }
 
 /*-------------------------------------------------------
